@@ -1,0 +1,74 @@
+h1{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-bottom: 0;
+}
+h3{
+	text-align: center;
+	padding: 10px;
+}
+h4{
+	text-align: right;
+	background-color: lightskyblue;
+	margin: 0;
+	padding: 10px 10px;
+}
+h4:hover{
+	color: red;
+}
+hr{
+	margin: 0;
+}
+.header_container{
+	text-align: center;
+	background-color: lightblue;
+}
+.top_container{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.middle_container{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: orange;
+}
+.bottom_container{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: lightskyblue;	
+}
+.heading3{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.top_image{
+	background: red;
+}
+.top1{
+	padding-left: 150px;
+}
+.heading2{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.para{
+	text-align: center;
+	color: gray;
+}
+.contacts{
+	padding-left: 10px;
+}
+.emma{
+	text-align: center;
+}
+.info{
+	text-align: center;
+}
+.product{
+	text-align: center;
+	background-color: lightgray;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
